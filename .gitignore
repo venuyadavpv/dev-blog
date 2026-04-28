@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+*~
+
+# Editor
+.vscode/
+
+# Node (future-proofing)
+node_modules/
